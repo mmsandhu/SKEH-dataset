@@ -72,6 +72,10 @@ Resampling: Solar and kinetic energy harvesting data was downsampled from 100 kH
 
 Segmentation: Data was segmented into 5 activities and break periods were removed.
 
+Link to Data:
+
+https://data.csiro.au/collection/csiro:65940
+
 
 Please cite the relevant work.
 
