@@ -3,17 +3,17 @@ This is Solar and Kinetic Energy Harvesting (SKEH) dataset for human activity re
 
 **Data Collection**
 
-Sensors Used:
+**Sensors Used:**
 
-Kinetic energy harvester: MIDÉ Technology S230-J1FR-1808XB two-layer piezoelectric bending transducer.
+**Kinetic energy harvester: **MIDÉ Technology S230-J1FR-1808XB two-layer piezoelectric bending transducer.
 
-Solar energy harvester: IXYS SLMD121H10L solar module
+**Solar energy harvester:** IXYS SLMD121H10L solar module
 
-Accelerometer: InvenSense MPU9250
+**Accelerometer:** InvenSense MPU9250
 
 
 
-All data stored at 100 Hz.
+All data stored at **100 Hz.**
 
 Data Collection Device (SEH and KEH): Beaglebone Green
 
@@ -68,20 +68,20 @@ Accelerometer:
 
 Raw Data Status: This is raw data segmented into 5 activities (break period were removed).
 
-Preprocessing Steps:
+**Preprocessing Steps:**
 
 Resampling: Solar and kinetic energy harvesting data was downsampled from 100 kHz to 100 Hz using linear interpolation.
 
 Segmentation: Data was segmented into 5 activities and break periods were removed.
 
 
-Link to Data:
+**Link to Data:**
 
 https://data.csiro.au/collection/csiro:65940
 
 
 
-Please cite the relevant work.
+**Please cite the relevant work.**
 
 1- Sandhu, Muhammad Moid, et al. "Fusedar: Energy-positive human activity recognition using kinetic and solar signal fusion." IEEE Sensors Journal 23.11 (2023): 12411-12426.
 
