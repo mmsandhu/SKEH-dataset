@@ -12,6 +12,7 @@ Solar energy harvester: IXYS SLMD121H10L solar module
 Accelerometer: InvenSense MPU9250
 
 
+
 All data stored at 100 Hz.
 
 Data Collection Device (SEH and KEH): Beaglebone Green
@@ -21,6 +22,7 @@ Collection Period: From November 2018 to June 2022
 Environment: Indoor and outdoor
 
 Collection Protocol: Data during 5 activities from each participant 
+
 
 
 Dataset Structure:
@@ -72,9 +74,11 @@ Resampling: Solar and kinetic energy harvesting data was downsampled from 100 kH
 
 Segmentation: Data was segmented into 5 activities and break periods were removed.
 
+
 Link to Data:
 
 https://data.csiro.au/collection/csiro:65940
+
 
 
 Please cite the relevant work.
