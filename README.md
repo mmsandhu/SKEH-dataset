@@ -12,7 +12,7 @@ This is Solar and Kinetic Energy Harvesting (SKEH) dataset for human activity re
 **Accelerometer:** InvenSense MPU9250
 
 
-
+<br>
 All data stored at **100 Hz.**
 
 **Data Collection Device (SEH and KEH):** Beaglebone Green
