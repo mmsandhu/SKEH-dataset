@@ -1,6 +1,7 @@
 # SKEH-dataset
 This is Solar and Kinetic Energy Harvesting (SKEH) dataset for human activity recognition. This dataset captures information from synchronized solar and kinetic energy harvesters as well as inertial sensors under diverse activity patterns.
 
+<br>
 **Data Collection**
 
 **Sensors Used:**
@@ -41,6 +42,7 @@ KEH
 
 SEH
 
+<br>
 **Five files** in each folder (running.csv, sitting.csv, stairs.csv, standing.csv, walking.csv)
 
 **File Formats:** CSV for time-series data
@@ -64,21 +66,24 @@ Accelerometer:
 `acc_z`: [g]
 
 
+<br>
 **Raw Data Status:** This is raw data segmented into 5 activities (break period were removed).
 
 **Preprocessing Steps:**
 
-Resampling: Solar and kinetic energy harvesting data was downsampled from 100 kHz to 100 Hz using linear interpolation.
+**Resampling:** Solar and kinetic energy harvesting data was downsampled from 100 kHz to 100 Hz using linear interpolation.
 
-Segmentation: Data was segmented into 5 activities and break periods were removed.
+**Segmentation:** Data was segmented into 5 activities and break periods were removed.
 
 
+<br>
 **Link to Data:**
 
 https://data.csiro.au/collection/csiro:65940
 
 
 
+<br>
 **Please cite the relevant work.**
 
 1- Sandhu, Muhammad Moid, et al. "Fusedar: Energy-positive human activity recognition using kinetic and solar signal fusion." IEEE Sensors Journal 23.11 (2023): 12411-12426.
