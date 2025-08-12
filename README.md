@@ -15,13 +15,13 @@ This is Solar and Kinetic Energy Harvesting (SKEH) dataset for human activity re
 
 All data stored at **100 Hz.**
 
-Data Collection Device (SEH and KEH): Beaglebone Green
+**Data Collection Device (SEH and KEH):** Beaglebone Green
 
-Collection Period: From November 2018 to June 2022
+**Collection Period:** From November 2018 to June 2022
 
-Environment: Indoor and outdoor
+**Environment:** Indoor and outdoor
 
-Collection Protocol: Data during 5 activities from each participant 
+**Collection Protocol:** Data during 5 activities from each participant 
 
 
 
@@ -29,13 +29,13 @@ Dataset Structure:
 
 Folder and File Organization: 
 
-The data is organised in 2 folders: 
+**The data is organised in 2 folders:**
 
 Indoors
 
 Outdoors
 
-Each folder has three subfolders:
+**Each folder has three subfolders:**
 
 Accelerometer
 
@@ -43,11 +43,11 @@ KEH
 
 SEH
 
-Five files in each folder (running.csv, sitting.csv, stairs.csv, standing.csv, walking.csv)
+**Five files** in each folder (running.csv, sitting.csv, stairs.csv, standing.csv, walking.csv)
 
-File Formats: CSV for time-series data
+**File Formats:** CSV for time-series data
 
-Data Schema: 
+**Data Schema: **
 
 Kinetic energy harvester:
 
@@ -66,7 +66,7 @@ Accelerometer:
 `acc_z`: [g]
 
 
-Raw Data Status: This is raw data segmented into 5 activities (break period were removed).
+**Raw Data Status:** This is raw data segmented into 5 activities (break period were removed).
 
 **Preprocessing Steps:**
 
