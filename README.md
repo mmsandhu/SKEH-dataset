@@ -27,8 +27,6 @@ All data stored at **100 Hz.**
 
 Dataset Structure:
 
-Folder and File Organization: 
-
 **The data is organised in 2 folders:**
 
 Indoors
