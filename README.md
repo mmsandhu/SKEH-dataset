@@ -1,7 +1,6 @@
 # SKEH-dataset
-This is Solar and Kinetic Energy Harvesting (SKEH) dataset for human activity recognition. This dataset captures information from synchronized solar and kinetic energy harvesters as well as inertial sensors under diverse activity patterns.
+This is Solar and Kinetic Energy Harvesting (SKEH) dataset for human activity recognition. This dataset captures information from synchronized solar and kinetic energy harvesters as well as inertial sensors under diverse activity patterns. <br>
 
-<br>
 **Data Collection**
 
 **Sensors Used:**
@@ -13,7 +12,6 @@ This is Solar and Kinetic Energy Harvesting (SKEH) dataset for human activity re
 **Accelerometer:** InvenSense MPU9250
 
 
-<br>
 All data stored at **100 Hz.**
 
 **Data Collection Device (SEH and KEH):** Beaglebone Green
@@ -42,7 +40,7 @@ KEH
 
 SEH
 
-<br>
+
 **Five files** in each folder (running.csv, sitting.csv, stairs.csv, standing.csv, walking.csv)
 
 **File Formats:** CSV for time-series data
