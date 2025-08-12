@@ -5,7 +5,7 @@ This is Solar and Kinetic Energy Harvesting (SKEH) dataset for human activity re
 
 **Sensors Used:**
 
-**Kinetic energy harvester: **MIDÉ Technology S230-J1FR-1808XB two-layer piezoelectric bending transducer.
+**Kinetic energy harvester:** MIDÉ Technology S230-J1FR-1808XB two-layer piezoelectric bending transducer.
 
 **Solar energy harvester:** IXYS SLMD121H10L solar module
 
