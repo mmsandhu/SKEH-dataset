@@ -45,7 +45,7 @@ SEH
 
 **File Formats:** CSV for time-series data
 
-**Data Schema: **
+**Data Schema:**
 
 Kinetic energy harvester:
 
@@ -64,7 +64,6 @@ Accelerometer:
 `acc_z`: [g]
 
 
-<br>
 **Raw Data Status:** This is raw data segmented into 5 activities (break period were removed).
 
 **Preprocessing Steps:**
@@ -74,14 +73,14 @@ Accelerometer:
 **Segmentation:** Data was segmented into 5 activities and break periods were removed.
 
 
-<br>
+
 **Link to Data:**
 
 https://data.csiro.au/collection/csiro:65940
 
 
 
-<br>
+
 **Please cite the relevant work.**
 
 1- Sandhu, Muhammad Moid, et al. "Fusedar: Energy-positive human activity recognition using kinetic and solar signal fusion." IEEE Sensors Journal 23.11 (2023): 12411-12426.
