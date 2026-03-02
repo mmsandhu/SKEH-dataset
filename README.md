@@ -83,8 +83,11 @@ https://data.csiro.au/collection/csiro%3A65940v2
 **Please cite the relevant work.**
 
 1- M. Sandhu, et al. "Descriptor: Solar and Kinetic Energy Harvesting Dataset for Human Activity Recognition (SKEH)" IEEE Data Descriptions (2026).
+
 2- M. M. Sandhu, et al. "Fusedar: Energy-positive human activity recognition using kinetic and solar signal fusion." IEEE Sensors Journal 23.11 (2023): 12411-12426.
+
 3- M. M. Sandhu, et al. Self-Powered Internet of Things: How Energy Harvesters Can Enable Energy-Positive Sensing, Processing, and Communication. Springer Nature, 2023.
+
 4- M. M. Sandhu, et al. "SolAR: Energy positive human activity recognition using solar cells." 2021 IEEE International Conference on Pervasive Computing and Communications (PerCom). IEEE, 2021.
 
 
