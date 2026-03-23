@@ -76,8 +76,7 @@ Accelerometer:
 
 **Link to Data:**
 
-https://data.csiro.au/collection/csiro%3A65940v2
-
+https://doi.org/10.25919/b8k7-2302
 
 
 **Please cite the relevant work.**
