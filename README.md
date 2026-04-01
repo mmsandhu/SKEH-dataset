@@ -76,7 +76,7 @@ Accelerometer:
 
 **Link to Data:**
 
-https://doi.org/10.25919/b8k7-2302
+https://doi.org/10.25919/85j1-6z03 
 
 
 **Please cite the relevant work.**
