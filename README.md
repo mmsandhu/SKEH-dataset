@@ -1,5 +1,5 @@
 # SKEH-HAR Dataset
-This is Solar and Kinetic Energy Harvesting (SKEH) dataset for human activity recognition. This dataset captures information from synchronized solar and kinetic energy harvesters as well as inertial sensors under diverse activity patterns. <br>
+This is Solar and Kinetic Energy Harvesting dataset for Human Activity Recognition (SKEH-HAR). This dataset captures information from synchronized solar and kinetic energy harvesters as well as inertial sensors under diverse activity patterns. <br>
 
 **Data Collection**
 
@@ -81,7 +81,7 @@ https://doi.org/10.25919/b8k7-2302
 
 **Please cite the relevant work.**
 
-1- M. Sandhu, et al. "Descriptor: Solar and Kinetic Energy Harvesting Dataset for Human Activity Recognition (SKEH)" IEEE Data Descriptions (2026).
+1- M. Sandhu, et al. "Descriptor: Solar and Kinetic Energy Harvesting Dataset for Human Activity Recognition (SKEH-HAR)" IEEE Data Descriptions (2026).
 
 2- M. M. Sandhu, et al. "Fusedar: Energy-positive human activity recognition using kinetic and solar signal fusion." IEEE Sensors Journal 23.11 (2023): 12411-12426.
 
