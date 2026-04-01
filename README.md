@@ -40,9 +40,7 @@ KEH
 
 SEH
 
-Each subfolder contains data from multiple experiments.
-**19 experiments** in Indoors.
-**26 experiments** in Outdoors.
+Each subfolder contains data from multiple experiments (**19 experiments** in Indoors and **26 experiments** in Outdoors).
 
 **Five files** in each folder (running.csv, sitting.csv, stairs.csv, standing.csv, walking.csv)
 
