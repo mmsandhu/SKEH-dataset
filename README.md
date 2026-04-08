@@ -82,7 +82,7 @@ https://doi.org/10.25919/85j1-6z03
 
 **Please cite the relevant work.**
 
-1- M. Sandhu, et al. "Descriptor: Solar and Kinetic Energy Harvesting Dataset for Human Activity Recognition (SKEH-HAR)" IEEE Data Descriptions (2026).
+1- M. Sandhu, et al. "Descriptor: Solar and Kinetic Energy Harvesting Dataset for Human Activity Recognition (SKEH-HAR)" IEEE Data Descriptions (2026). https://ieeexplore.ieee.org/document/11474813 
 
 2- M. M. Sandhu, et al. "Fusedar: Energy-positive human activity recognition using kinetic and solar signal fusion." IEEE Sensors Journal 23.11 (2023): 12411-12426. https://ieeexplore.ieee.org/document/10108935 
 
